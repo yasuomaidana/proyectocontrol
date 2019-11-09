@@ -2,7 +2,7 @@
 Modelacion de sistemas ARX con un archivo donde se localizan las entradas
 
 Para ejecutar el programa hay que:
-  a) si se tiene visual estudio abrir el archivo "proyectocontrol.pyproj" como proyecto
+  a) si se tiene visual estudio abrir el archivo "proyectocontrol.sln" como proyecto
   b) ejecutar el archivo proyectocontrol.py
 
 Librerias necesarias para poder ejecutar el proyecto
